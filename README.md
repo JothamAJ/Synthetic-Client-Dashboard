@@ -16,10 +16,10 @@ This Excel dashboard tracks clients by counsellor, status, and referral/assessme
 
 ## Data
 - The dataset is fully synthetic, created for demonstration purposes.
-- Located in: .
+- View Dashboard:https://github.com/JothamAJ/Synthetic-Client-Dashboard/tree/main/Dashboard%20Screenshots.
 
 ## How to Use
-1. Open: .
+1. Open:https://github.com/JothamAJ/Synthetic-Client-Dashboard/blob/main/Synthetic%20client%20data.xlsx.
 2. Use the slicers to filter by month or counsellor.
 3. Explore charts to analyse client outcomes.
 
